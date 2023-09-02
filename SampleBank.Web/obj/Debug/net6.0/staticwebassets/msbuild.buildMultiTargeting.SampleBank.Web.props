@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\SampleBank.Web.props" />
-</Project>

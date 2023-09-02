@@ -7,7 +7,7 @@ namespace SampleBankApp.Core.Service
         Task<Transaction> FundTransfer(Transaction  transaction);
         Task<TransactionReversal> Reversal(Transaction transaction);
         Task<List<Transaction>> GetAllTransactions();
-        Task<AccountDto> GetAccountBalance(Guid  accountId);
-        Task<AccountDto> AccountNameEnquiry(string AccountHolderName);
+        Task<Account> GetAccountBalance(Guid  accountId);
+        Task<Account> AccountNameEnquiry(string AccountHolderName);
     }
 }

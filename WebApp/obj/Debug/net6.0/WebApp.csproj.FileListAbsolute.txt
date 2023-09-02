@@ -32,3 +32,14 @@ C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\obj\Debug\net6.0\refint\W
 C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\obj\Debug\net6.0\WebApp.pdb
 C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
 C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\obj\Debug\net6.0\ref\WebApp.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

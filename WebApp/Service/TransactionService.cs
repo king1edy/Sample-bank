@@ -54,9 +54,9 @@ namespace WebApp.Service
             return await Task.FromResult(_transactions);
         }
 
-        public async Task<AccountDto> GetAccountBalance(Guid accountId)
+        public async Task<Account> GetAccountBalance(Guid accountId)
         {
-            var response = new AccountDto();
+            var response = new Account();
 
             // get the repository of account in the system.
             var accountsRepo = AccountList();
@@ -77,9 +77,9 @@ namespace WebApp.Service
             return await Task.FromResult(response);
         }
 
-        public async Task<AccountDto> AccountNameEnquiry(string AccountHolderName)
+        public async Task<Account> AccountNameEnquiry(string AccountHolderName)
         {
-            var response = new AccountDto();
+            var response = new Account();
 
             // get the repository of account in the system.
             var accountsRepo = AccountList();
@@ -100,18 +100,18 @@ namespace WebApp.Service
             return await Task.FromResult(response);
         }
 
-        private List<AccountDto> AccountList()
+        private List<Account> AccountList()
         {
-            List<AccountDto> accounts = new List<AccountDto>()
+            List<Account> accounts = new List<Account>()
             {
-                new AccountDto()
+                new Account()
                 {
                     Name = "King Oba",
                     AccountNumber = "1234567890",
                     AccountBalance = 3000.0m,
                     IsActive = true
                 },
-                new AccountDto()
+                new Account()
                 {
                     Id = Guid.Parse("cfe030a1-add2-493d-b6e0-ac4fcda228b2"),
                     Name = "Dude guy",
@@ -119,14 +119,14 @@ namespace WebApp.Service
                     AccountBalance = 30000.0m,
                     IsActive = true
                 },
-                new AccountDto()
+                new Account()
                 {
                     Name = "Eddy Murphy",
                     AccountNumber = "0454534233",
                     AccountBalance = 35000.0m,
                     IsActive = true
                 },
-                new AccountDto()
+                new Account()
                 {
                     Name = "Ngozi Mba",
                     AccountNumber = "0923434344",
