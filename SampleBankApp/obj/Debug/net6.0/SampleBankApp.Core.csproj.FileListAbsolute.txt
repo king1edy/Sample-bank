@@ -1,0 +1,12 @@
+C:\Users\PRECISION 5560\source\repos\SampleBank\SampleBankApp\bin\Debug\net6.0\SampleBankApp.Core.deps.json
+C:\Users\PRECISION 5560\source\repos\SampleBank\SampleBankApp\bin\Debug\net6.0\SampleBankApp.Core.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\SampleBankApp\bin\Debug\net6.0\SampleBankApp.Core.pdb
+C:\Users\PRECISION 5560\source\repos\SampleBank\SampleBankApp\obj\Debug\net6.0\SampleBankApp.Core.csproj.AssemblyReference.cache
+C:\Users\PRECISION 5560\source\repos\SampleBank\SampleBankApp\obj\Debug\net6.0\SampleBankApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRECISION 5560\source\repos\SampleBank\SampleBankApp\obj\Debug\net6.0\SampleBankApp.Core.AssemblyInfoInputs.cache
+C:\Users\PRECISION 5560\source\repos\SampleBank\SampleBankApp\obj\Debug\net6.0\SampleBankApp.Core.AssemblyInfo.cs
+C:\Users\PRECISION 5560\source\repos\SampleBank\SampleBankApp\obj\Debug\net6.0\SampleBankApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\PRECISION 5560\source\repos\SampleBank\SampleBankApp\obj\Debug\net6.0\SampleBankApp.Core.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\SampleBankApp\obj\Debug\net6.0\refint\SampleBankApp.Core.dll
+C:\Users\PRECISION 5560\source\repos\SampleBank\SampleBankApp\obj\Debug\net6.0\SampleBankApp.Core.pdb
+C:\Users\PRECISION 5560\source\repos\SampleBank\SampleBankApp\obj\Debug\net6.0\ref\SampleBankApp.Core.dll
